@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>united-arab-emirates</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="27" cy="27" r="27"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Section-2" transform="translate(-904.000000, -702.000000)">
+            <g id="Group-3" transform="translate(736.000000, 644.000000)">
+                <g id="UAE" transform="translate(0.000000, 44.000000)">
+                    <g id="Group-2" transform="translate(168.000000, 14.000000)">
+                        <g id="united-arab-emirates">
+                            <g>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g mask="url(#mask-2)">
+                                    <g transform="translate(-1.500000, -5.500000)">
+                                        <ellipse id="Oval" fill="#F0F0F0" cx="28.5" cy="32.5" rx="28" ry="27"></ellipse>
+                                        <path d="M15.5,41.5 L18.2241818,61.4020826 C21.6178752,62.7581323 25.2887472,63.5 29.1207866,63.5 C42.5905629,63.5 54.0737094,54.3456429 58.5,41.5 L15.5,41.5 Z" id="Path" fill="#000000"></path>
+                                        <path d="M15.5,22.5 L18.5409471,2.59791743 C22.3292561,1.24186767 26.4269736,0.5 30.704599,0.5 C45.7406284,0.5 58.5590244,9.65435711 63.5,22.5 L15.5,22.5 Z" id="Path" fill="#6DA544"></path>
+                                        <path d="M1.5,32 C1.5,45.9837031 8.57392323,57.9047431 18.5,62.5 L18.5,1.5 C8.57392323,6.09525694 1.5,18.0162969 1.5,32 Z" id="Path" fill="#A2001D"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

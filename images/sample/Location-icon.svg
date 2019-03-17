@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Location-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Section-1" transform="translate(-298.000000, -853.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Address" transform="translate(30.000000, 850.000000)">
+                <path d="M275,3 C271.140179,3 268,6.08683579 268,9.88105135 C268,14.5897915 274.264314,21.5024972 274.531023,21.7944741 C274.781537,22.0687498 275.218916,22.0682674 275.468977,21.7944741 C275.735686,21.5024972 282,14.5897915 282,9.88105135 C281.999924,6.08683579 278.859783,3 275,3 Z M275,13.3431005 C273.058028,13.3431005 271.478161,11.7900341 271.478161,9.88105135 C271.478161,7.97206856 273.058066,6.41903932 275,6.41903932 C276.941934,6.41903932 278.521801,7.97210567 278.521801,9.88108846 C278.521801,11.7900713 276.941934,13.3431005 275,13.3431005 Z" id="Location-icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>
