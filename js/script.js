@@ -69,4 +69,22 @@ for (i = 0; i < alireza.length; ++i) {
 //        }
 //    });
 //});
+//$('.less-content,.advice-form').hide();
+setTimeout(function(){$('.less-content').fadeIn();},100);
+setTimeout(function(){$('.advice-form').fadeIn();},300);
+
+$(document).on('click','.more-info',function(){
+$('body').addClass('second');
+setTimeout(function(){$('.less-content').fadeOut();},500);
+setTimeout(function(){$('.more-content').fadeIn(1000);},800);
+setTimeout(function(){$('.advice-form').fadeOut(0).css({'max-width':'50px'});},700);
+setTimeout(function(){$('.back').fadeIn();},1000);
+});
+$(document).on('click','.less-info',function(){
+$('body').removeClass('second');
+setTimeout(function(){$('.more-content').fadeOut(0);},800);
+setTimeout(function(){$('.less-content').fadeIn();},800);
+setTimeout(function(){$('.back').fadeOut(0);},500);
+setTimeout(function(){$('.advice-form').fadeIn().css({'max-width':'700px'});},550);
+});
 
