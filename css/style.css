@@ -146,7 +146,7 @@ html,body,.wrapper{height: 100%;}
 .mobile-view .advice-form form{height: 100%;width: 100%;}
 .mobile-view .advice-form form .mjfield1{height: 100%;border: none;width: 100%;position: relative;text-indent: 20px;background-color: #f4f4f4;}
 .mobile-view .advice-form form .mjfield1::placeholder{font-size: 12px;text-align: right;color: #9e9395;}
-.mobile-view .advice-form form .mjsubmit{border: none;height: 100%;width: 114px;background-color: #12cd0e;position: absolute;left: 0;z-index: 1;top: 0;}
+.mobile-view .advice-form form .mjsubmit{border: none;height: 100%;width: 114px;background: #12cd0e url('../images/sample/path-form.svg');position: absolute;left: 0;z-index: 1;top: 0;background-size: 10px 100%;background-repeat: no-repeat;background-position: 101%;}
 .mobile-view .advice-form form .mjsubmit span{font-size: 12px;font-weight: bold;text-align: center;color: #ffffff;}
 .mobile-view .advice-form form .confirmation_message{}
 .mobile-view .advice-form form .confirmation_message span{}
